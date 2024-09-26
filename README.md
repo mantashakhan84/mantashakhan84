@@ -1,7 +1,7 @@
-👨‍💻 BCA Student | Passionate about Coding & Tech | 📚 Learning, Exploring, and Creating
+👨‍💻 MCA Student | Passionate about Coding & Tech | 📚 Learning, Exploring, and Creating
 
 🌟 About Me:
-🎓 Currently pursuing a Bachelor's in Computer Applications (BCA)
+🎓 Currently pursuing a Master's in Computer Applications (MCA)
 🌐 Enthusiast for all things tech and programming
 🚀 Committed to continuous learning and growth
 
